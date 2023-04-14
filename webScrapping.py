@@ -6,8 +6,7 @@ from VerificaDownload import *
 
 """
     A janela de download do Chrome que será aberta pela classe VerificaDownload
-    DEVE ficar aberta, não podemos mudar de aba enquanto o download está sendo feito, uma vez que 
-    a verificação é feita nessa página
+    DEVE ficar aberta, não podemos mudar de aba enquanto o download está sendo feito, uma vez que a verificação é feita nessa página
 """
 
 
